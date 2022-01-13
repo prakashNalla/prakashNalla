@@ -2,7 +2,9 @@
 ---
 ### 😳 - Bada kaise hoga yaar 😭👈🏼
 ### 🥴 - Digital India inki behen ka chodon
-### 😙 - Thãråk Level - ```java Integer.MAX_VALUE```
+### 😙 - Thãråk Level - ```java
+Integer.MAX_VALUE
+```
 
 <!---
 prakashNalla/prakashNalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
